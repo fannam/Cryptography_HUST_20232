@@ -1,6 +1,6 @@
 # Same cipher key One-Time-Pad Attack 
 
-# Basis knowledge: 
+### Basis knowledge: 
 With the same cipher key, the OTP method is vulnerable since with two plaintexts:
 - plaintext1 XOR key = ciphertext1
 - plaintext2 XOR key = ciphertext2
